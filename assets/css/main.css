@@ -220,7 +220,7 @@ a{
 .acc-head{
     background-color: var(--blue-color);
     border-radius: 10px;
-    border: 1px solid rgba(34, 127, 181, 0.3);
+    border: 1px solid #ec1d02bd;
 }
 .acc-head-top-icon{
     width: 27px;
