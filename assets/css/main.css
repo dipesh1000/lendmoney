@@ -126,6 +126,12 @@ a{
 .overview-section-list a{
     color: unset;
 }
+.login-pg {
+    background-color: #0a0c18;
+}
+.sign-up-pg {
+    background-color: #0a0c18;
+}
 .overview-section-item{
     background-color: #fff;
     border-radius: 6px;
