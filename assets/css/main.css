@@ -86,7 +86,6 @@ a{
     width: 100%;
 }
 .form-container-content{
-    background-color: #0a0c18;
     padding: 60px 20px;
     border-radius: 5px;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
@@ -128,6 +127,9 @@ a{
 }
 .login-pg {
     background-color: #0a0c18;
+    background-image: url('/assets/images/loginbg.jpeg');
+    background-repeat: no-repeat;
+    background-position-x: center;
 }
 .sign-up-pg {
     background-color: #0a0c18;
